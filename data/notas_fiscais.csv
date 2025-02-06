@@ -1,0 +1,6 @@
+Número da Nota;Data de Emissão;Cliente;Valor (R$);Status;Descrição
+12345;2025-01-10;Maria Silva;250.00;Pago;Compra de alimentos
+12346;2025-01-11;João Pereira;130.50;Pendente;Compra de bebidas
+12347;2025-01-12;Empresa XYZ;5000.00;Pago;Fornecimento de insumos
+12348;2025-01-13;Ana Santos;89.99;Cancelada;Compra de produtos de limpeza
+12349;2025-01-14;Carlos Almeida;250.00;Pago;Pedido online
