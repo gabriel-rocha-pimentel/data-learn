@@ -1,14 +1,14 @@
-Item;Categoria;Quantidade;Preço Unitário (R$);Data de Validade
-Arroz;Grãos;50;3.50;2025-12-31
-Feijão;Grãos;30;7.20;2025-12-31
-Carne Bovina;Carnes;20;40.00;2025-02-10
-Frango;Carnes;15;15.00;2025-02-15
-Tomate;Hortifruti;25;4.00;2025-01-30
-Alface;Hortifruti;10;2.50;2025-01-28
-Óleo de Soja;Condimentos;12;8.00;2026-05-15
-Sal;Condimentos;20;2.00;2027-08-01
-Pão de Forma;Panificação;5;7.50;2025-01-22
-Leite;Laticínios;30;5.00;2025-02-05
-Queijo Mussarela;Laticínios;15;40.00;2025-02-15
-Refrigerante;Bebidas;50;6.00;2025-12-31
-Água Mineral;Bebidas;100;1.50;2025-12-31
+Categoria;Item;Quantidade;Preço;Validade
+Grãos;Arroz;50;3.50;2025-12-31
+Grãos;Feijão;30;7.20;2025-12-31
+Carnes;Carne Bovina;20;40.00;2025-02-10
+Carnes;Frango;15;15.00;2025-02-15
+Hortifruti;Tomate;25;4.00;2025-01-30
+Hortifruti;Alface;10;2.50;2025-01-28
+Condimentos;Óleo de Soja;12;8.00;2026-05-15
+Condimentos;Sal;20;2.00;2027-08-01
+Panificação;Pão de Forma;5;7.50;2025-01-22
+Laticínios;Leite;30;5.00;2025-02-05
+Laticínios;Queijo Mussarela;15;40.00;2025-02-15
+Bebidas;Refrigerante;50;6.00;2025-12-31
+Bebidas;Água Mineral;100;1.50;2025-12-31
