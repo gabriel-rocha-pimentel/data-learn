@@ -1,0 +1,18 @@
+Categoria;Item;Quantidade;Preço;Validade
+Destilados;Vodka;20;50.00;2026-06-10
+Destilados;Whisky;15;120.00;2027-03-15
+Destilados;Cachaça;25;20.00;2026-11-20
+Cervejas;Cerveja Pilsen;50;8.00;2025-08-30
+Cervejas;Cerveja IPA;30;12.00;2025-09-15
+Cervejas;Cerveja Stout;20;15.00;2025-10-05
+Refrigerantes;Coca-Cola;40;6.00;2025-12-31
+Refrigerantes;Guaraná;35;5.50;2025-12-31
+Refrigerantes;Tônica;20;7.00;2025-12-31
+Sucos;Suco de Laranja;25;10.00;2025-07-20
+Sucos;Suco de Uva;30;12.00;2025-08-25
+Energéticos;Energético Red Bull;20;15.00;2025-10-15
+Energéticos;Energético Monster;15;16.00;2025-09-30
+Petiscos;Amendoim Torrado;50;5.00;2025-06-30
+Petiscos;Batata Chips;30;7.00;2025-05-15
+Petiscos;Torresmo;20;10.00;2025-04-10
+Petiscos;Mix de Castanhas;25;12.00;2025-03-20

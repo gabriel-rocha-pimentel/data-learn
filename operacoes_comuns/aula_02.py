@@ -1,6 +1,6 @@
 import pandas as pd
 
-tabela = pd.read_csv('../data/estoque.csv', delimiter=';')
+tabela = pd.read_csv('../data/estoque_cozinha.csv', delimiter=';')
 
 # O comando set_index é usado para definir uma coluna especifica como index da tabela
 # O atributo inplace=True é usado para salvar a alteração na tabela, sem ele a alteração não é aplicada
